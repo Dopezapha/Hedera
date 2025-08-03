@@ -1,0 +1,28 @@
+{
+  "name": "hedera",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dopezapha/Hedera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dopezapha/Hedera/issues"
+  },
+  "homepage": "https://github.com/Dopezapha/Hedera#readme",
+  "description": "",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.69.0",
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0"
+  }
+}
